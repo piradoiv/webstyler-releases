@@ -8,9 +8,9 @@ A free desktop tool that builds Bootstrap themes in just a few clicks.
 
 # License
 
-- Use the app freely, even for commercial apps
+- Use the app freely, even for commercial apps, attribution is not required (but appreciated)
+- Share the built themes freely, modify them if you want, attribution is not required (but appreciated)
 - Share the app freely, maintaining the attribution details
-- Share the built themes freely, modify them if you want
 
 Fine print:    
 [WebStyler](https://piradoiv.github.io/webstyler/) © 2024 by [Ricardo Cruz](https://github.com/piradoiv/) is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/legalcode.en).    
